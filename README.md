@@ -41,8 +41,31 @@ The program will allow your organisation to store team members task information 
 
 ## Installation guidelines
 
-Save both inventory.py and inventory.txt to your local hardrive. Open Visual Studio Code. Open both files, this will allow you to use the programme and read from the inventory.txt file. 
+Save task_manager2.py, tasks.txt and user.txt to your local hardrive. Open Visual Studio Code. Open both files, this will allow you to use the programme and read from user.txt and tasks.txt. 
 
 ## How to use this programme 
 
-The below is a screen shot of the menu, that the user will navigate through:
+The below is a screen shot of the options menu that the user is presented with after they have successfully logged in:
+
+<img width="392" alt="Screenshot 2023-03-29 at 18 46 43" src="https://user-images.githubusercontent.com/123968755/228624542-a6d0190a-cf3e-4a26-b9b6-ff52a4d4199b.png">
+
+
+
+
+The below is a screen shot of the 'va' option which will allow the user to view all tasks which are stored in the tasks.txt file and holds the following information:
+* User name
+* Task Title
+* Task Description
+* Date Assigned
+* Due date
+* Is task completed
+
+<img width="169" alt="Screenshot 2023-03-29 at 18 37 15" src="https://user-images.githubusercontent.com/123968755/228623819-00268280-41dc-4ba6-b881-f3ad46fb7dc6.png">
+
+The below is a screen shot of the 'ds' display statistics option which will display the total number of tasks in tasks.txt and users in user.txt:
+
+<img width="401" alt="Screenshot 2023-03-29 at 18 51 43" src="https://user-images.githubusercontent.com/123968755/228626132-0f016c17-eeba-4746-b3d2-08b2aa8c1e55.png">
+
+
+
+
