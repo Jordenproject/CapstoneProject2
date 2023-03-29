@@ -35,7 +35,7 @@
 
 ## How can your organisation benefit from the programme?
 
-The program will allow your organisation to store team members task information and 
+The program will allow your organisation to store team members task information such as task description and task due date and if the task is overdue. The program will also allow your team member to view their specific task information.  The program organises your team members task information and allows your team members to detail which specfic tasks are assigned to them along with due dates for each task and if the task has been completed. 
 
 
 
